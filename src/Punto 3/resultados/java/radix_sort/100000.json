@@ -1,0 +1,27 @@
+{
+  "algoritmo": "radix_sort",
+  "lenguaje": "Java",
+  "tamano": 100000,
+  "repeticiones_solicitadas": 5,
+  "limite_segundos": 300,
+  "resultados": {
+    "aleatorio": {
+      "tipo": "medido",
+      "tiempos_ms": [3.80275, 3.810708, 6.445375, 3.506834, 5.811708],
+      "promedio_ms": 4.6754750000000005,
+      "desviacion_estandar_ms": 1.3508112485728716
+    },
+    "ascendente": {
+      "tipo": "medido",
+      "tiempos_ms": [3.953666, 5.784291, 3.797959, 3.543625, 3.819416],
+      "promedio_ms": 4.1797914,
+      "desviacion_estandar_ms": 0.9091102466188025
+    },
+    "descendente": {
+      "tipo": "medido",
+      "tiempos_ms": [3.5365, 5.789167, 3.560417, 3.773417, 3.7515],
+      "promedio_ms": 4.0822002,
+      "desviacion_estandar_ms": 0.9602723258621483
+    }
+  }
+}

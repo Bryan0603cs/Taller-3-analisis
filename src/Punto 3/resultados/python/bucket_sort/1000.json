@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Bucket Sort",
+    "lenguaje": "Python",
+    "tamano": 1000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                0.257292,
+                0.241833,
+                0.223292,
+                0.284583,
+                0.249083
+            ],
+            "promedio_ms": 0.2512166,
+            "desviacion_estandar_ms": 0.022486743968391686
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                0.094709,
+                0.091666,
+                0.091875,
+                0.093708,
+                0.093375
+            ],
+            "promedio_ms": 0.0930666,
+            "desviacion_estandar_ms": 0.0012831185837637938
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                0.359584,
+                0.362792,
+                0.362125,
+                0.357792,
+                0.357458
+            ],
+            "promedio_ms": 0.3599502,
+            "desviacion_estandar_ms": 0.0024397014571459308
+        }
+    }
+}

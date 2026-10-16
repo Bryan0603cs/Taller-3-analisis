@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Radix Sort",
+    "lenguaje": "Python",
+    "tamano": 10000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                7.185875,
+                7.11575,
+                7.126958,
+                7.157959,
+                7.28675
+            ],
+            "promedio_ms": 7.1746584,
+            "desviacion_estandar_ms": 0.06840090755465142
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                7.070417,
+                7.007333,
+                7.245166,
+                7.23675,
+                7.191292
+            ],
+            "promedio_ms": 7.1501916,
+            "desviacion_estandar_ms": 0.10603572811227353
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                7.080667,
+                6.994083,
+                7.194791,
+                7.302375,
+                7.194667
+            ],
+            "promedio_ms": 7.1533166,
+            "desviacion_estandar_ms": 0.11861881363763503
+        }
+    }
+}

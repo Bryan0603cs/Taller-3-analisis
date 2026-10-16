@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Merge Sort",
+    "lenguaje": "Python",
+    "tamano": 1000000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                1163.674042,
+                1158.338584,
+                1179.409625,
+                1183.610584,
+                1150.909959
+            ],
+            "promedio_ms": 1167.1885588,
+            "desviacion_estandar_ms": 13.916753073911412
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                901.682416,
+                878.585834,
+                868.90625,
+                872.618417,
+                900.016
+            ],
+            "promedio_ms": 884.3617834,
+            "desviacion_estandar_ms": 15.453159624963606
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                877.386375,
+                882.997416,
+                895.668958,
+                904.134208,
+                954.454542
+            ],
+            "promedio_ms": 902.9282998,
+            "desviacion_estandar_ms": 30.65426538325076
+        }
+    }
+}

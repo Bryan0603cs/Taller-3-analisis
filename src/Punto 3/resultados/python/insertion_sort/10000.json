@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Insertion Sort",
+    "lenguaje": "Python",
+    "tamano": 10000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                506.961209,
+                504.216875,
+                502.90825,
+                500.066208,
+                503.912958
+            ],
+            "promedio_ms": 503.61310000000003,
+            "desviacion_estandar_ms": 2.4870438943067463
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                0.247041,
+                0.240709,
+                0.245584,
+                0.274791,
+                0.270416
+            ],
+            "promedio_ms": 0.2557082,
+            "desviacion_estandar_ms": 0.015676960952301946
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                988.819542,
+                977.01175,
+                977.259333,
+                990.585125,
+                989.228083
+            ],
+            "promedio_ms": 984.5807666,
+            "desviacion_estandar_ms": 6.8284421477246235
+        }
+    }
+}

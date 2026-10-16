@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Dual-Pivot QuickSort",
+    "lenguaje": "Python",
+    "tamano": 100000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                41.169833,
+                39.5535,
+                41.133125,
+                39.959125,
+                41.510167
+            ],
+            "promedio_ms": 40.66515,
+            "desviacion_estandar_ms": 0.8546923839206715
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                41866.506166,
+                40537.370709,
+                40604.492958,
+                40947.672625,
+                41011.789375
+            ],
+            "promedio_ms": 40993.566366600004,
+            "desviacion_estandar_ms": 530.0836731645344
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                47882.703125,
+                48368.061375,
+                50420.180083,
+                50205.1115,
+                48440.49475
+            ],
+            "promedio_ms": 49063.3101666,
+            "desviacion_estandar_ms": 1162.9605718850444
+        }
+    }
+}

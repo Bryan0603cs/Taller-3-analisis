@@ -1,0 +1,27 @@
+{
+  "algoritmo": "dual_pivot_quicksort",
+  "lenguaje": "Java",
+  "tamano": 1000,
+  "repeticiones_solicitadas": 5,
+  "limite_segundos": 300,
+  "resultados": {
+    "aleatorio": {
+      "tipo": "medido",
+      "tiempos_ms": [0.293917, 0.268917, 0.386208, 0.292333, 0.296208],
+      "promedio_ms": 0.30751660000000003,
+      "desviacion_estandar_ms": 0.04534765930343042
+    },
+    "ascendente": {
+      "tipo": "medido",
+      "tiempos_ms": [1.063542, 1.14225, 1.315041, 1.424375, 1.225583],
+      "promedio_ms": 1.2341582,
+      "desviacion_estandar_ms": 0.14173478518239618
+    },
+    "descendente": {
+      "tipo": "medido",
+      "tiempos_ms": [1.170208, 1.296625, 1.168292, 1.299625, 1.336042],
+      "promedio_ms": 1.2541584000000001,
+      "desviacion_estandar_ms": 0.07905102163982446
+    }
+  }
+}

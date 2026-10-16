@@ -1,0 +1,45 @@
+{
+    "algoritmo": "Heap Sort",
+    "lenguaje": "Python",
+    "tamano": 10000,
+    "repeticiones_solicitadas": 5,
+    "limite_segundos": 300,
+    "resultados": {
+        "aleatorio": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                8.153833,
+                8.185916,
+                8.269458,
+                8.446334,
+                8.40825
+            ],
+            "promedio_ms": 8.2927582,
+            "desviacion_estandar_ms": 0.13055865389624688
+        },
+        "ascendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                8.363625,
+                8.418333,
+                8.646542,
+                8.674916,
+                8.592625
+            ],
+            "promedio_ms": 8.539208200000001,
+            "desviacion_estandar_ms": 0.1398488292968514
+        },
+        "descendente": {
+            "tipo": "medido",
+            "tiempos_ms": [
+                7.517917,
+                7.511833,
+                7.568042,
+                7.665375,
+                7.833125
+            ],
+            "promedio_ms": 7.6192584,
+            "desviacion_estandar_ms": 0.13444244022926685
+        }
+    }
+}
