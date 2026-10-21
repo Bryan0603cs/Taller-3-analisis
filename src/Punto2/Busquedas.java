@@ -1,3 +1,5 @@
+package Punto2;
+
 public class Busquedas {
 
     public static int lineal(int[] arr, int objetivo) {
