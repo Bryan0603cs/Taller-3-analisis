@@ -1,0 +1,10 @@
+{
+  "algoritmo": "interpolacion",
+  "lenguaje": "Java",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [170.8, 170.4, 189.7, 245.6, 663.0],
+  "promedio_ns": 287.9,
+  "desviacion_ns": 211.92640231929573
+}

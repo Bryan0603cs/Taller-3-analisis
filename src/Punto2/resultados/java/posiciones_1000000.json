@@ -1,0 +1,32 @@
+{
+  "lineal": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 6.320000000000001, "desviacion_ns": 8.262384643672796, "repeticiones_ns": [21.1, 2.7, 2.6, 2.6, 2.6]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 98436.56000000001, "desviacion_ns": 9474.927771386969, "repeticiones_ns": [88937.3, 110423.6, 91999.0, 106573.0, 94249.9]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 272499.52, "desviacion_ns": 54500.94217146158, "repeticiones_ns": [223937.4, 305340.1, 345562.2, 270870.3, 216787.6]}
+  },
+  "binaria": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 25.4, "desviacion_ns": 1.7720045146669356, "repeticiones_ns": [26.0, 25.4, 26.2, 27.0, 22.4]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 25.359999999999996, "desviacion_ns": 1.2421755109484316, "repeticiones_ns": [27.4, 25.7, 24.6, 24.6, 24.5]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 25.5, "desviacion_ns": 0.45276925690687114, "repeticiones_ns": [26.3, 25.2, 25.4, 25.3, 25.3]}
+  },
+  "ternaria": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 69.88000000000001, "desviacion_ns": 39.27081613615892, "repeticiones_ns": [28.2, 26.5, 107.2, 96.7, 90.8]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 25.720000000000006, "desviacion_ns": 1.588080602488425, "repeticiones_ns": [23.3, 24.9, 26.7, 26.7, 27.0]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 31.620000000000005, "desviacion_ns": 4.2387498156885846, "repeticiones_ns": [37.2, 34.8, 29.9, 26.9, 29.3]}
+  },
+  "salto": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 19.440000000000005, "desviacion_ns": 23.568156482847787, "repeticiones_ns": [61.6, 8.9, 8.9, 8.9, 8.9]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 420.74000000000007, "desviacion_ns": 66.31336969269469, "repeticiones_ns": [507.0, 423.8, 384.5, 455.1, 333.3]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 2065.7200000000003, "desviacion_ns": 665.5918959843186, "repeticiones_ns": [3131.1, 1786.5, 1546.4, 2288.5, 1576.1]}
+  },
+  "interpolacion": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 5.459999999999999, "desviacion_ns": 0.08944271909999127, "repeticiones_ns": [5.6, 5.4, 5.4, 5.4, 5.5]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 23.6, "desviacion_ns": 1.9634153916071864, "repeticiones_ns": [22.6, 22.7, 22.6, 23.0, 27.1]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 5.880000000000001, "desviacion_ns": 0.04472135954999604, "repeticiones_ns": [5.9, 5.9, 5.9, 5.8, 5.9]}
+  },
+  "exponencial": {
+    "inicio": {"clave": 10000101, "tipo": "medido", "promedio_ns": 12.360000000000001, "desviacion_ns": 18.871353952485762, "repeticiones_ns": [3.7, 3.2, 3.9, 4.9, 46.1]},
+    "centro": {"clave": 55017957, "tipo": "medido", "promedio_ns": 68.62, "desviacion_ns": 8.838382204906056, "repeticiones_ns": [77.2, 75.7, 68.9, 66.2, 55.1]},
+    "final": {"clave": 99999962, "tipo": "medido", "promedio_ns": 86.44, "desviacion_ns": 46.92385320921546, "repeticiones_ns": [60.9, 79.7, 66.4, 168.9, 56.3]}
+  }
+}

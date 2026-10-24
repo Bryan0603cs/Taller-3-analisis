@@ -1,0 +1,10 @@
+{
+  "algoritmo": "ternaria",
+  "lenguaje": "Java",
+  "n": 10000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [201.0, 240.9, 210.4, 184.2, 171.2],
+  "promedio_ns": 201.54000000000002,
+  "desviacion_ns": 26.688911555175874
+}

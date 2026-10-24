@@ -85,11 +85,23 @@ public class ExperimentoBusquedas {
 
     public static void main(String[] args) throws Exception {
 
-        Path base = Path.of(".").toAbsolutePath().normalize();
-        Path datos = base.getParent().resolve("Punto 3").resolve("datos").resolve("datos");
-        Path clavesDir = base.resolve("claves");
-        Path salida = base.resolve("resultados").resolve("java");
+        Path raiz = Path.of(".").toAbsolutePath().normalize();
 
+        Path punto2 = raiz
+                .resolve("src")
+                .resolve("Punto2");
+
+        Path datos = raiz
+                .resolve("src")
+                .resolve("Punto 3")
+                .resolve("datos")
+                .resolve("datos");
+
+        Path clavesDir = punto2.resolve("claves");
+
+        Path salida = punto2
+                .resolve("resultados")
+                .resolve("java");
         LinkedHashMap<String, Busqueda> algoritmos = new LinkedHashMap<>();
         algoritmos.put("lineal", Busquedas::lineal);
         algoritmos.put("binaria", Busquedas::binaria);

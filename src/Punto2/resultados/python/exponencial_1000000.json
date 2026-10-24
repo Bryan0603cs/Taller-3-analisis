@@ -1,0 +1,16 @@
+{
+  "algoritmo": "exponencial",
+  "lenguaje": "Python",
+  "n": 1000000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    3566.1,
+    3996.4,
+    6345.1,
+    3867.9,
+    4004.3
+  ],
+  "promedio_ns": 4355.96,
+  "desviacion_ns": 1126.0225876952913
+}

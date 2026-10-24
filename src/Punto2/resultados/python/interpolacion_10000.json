@@ -1,0 +1,16 @@
+{
+  "algoritmo": "interpolacion",
+  "lenguaje": "Python",
+  "n": 10000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    1435.3,
+    994.9,
+    1066.7,
+    720.0,
+    738.3
+  ],
+  "promedio_ns": 991.04,
+  "desviacion_ns": 291.73895523224184
+}

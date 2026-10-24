@@ -1,0 +1,16 @@
+{
+  "algoritmo": "lineal",
+  "lenguaje": "Python",
+  "n": 100000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    1791058.2,
+    1735477.4,
+    1723793.7,
+    1823447.8,
+    1760487.9
+  ],
+  "promedio_ns": 1766853.0,
+  "desviacion_ns": 40828.63328578368
+}

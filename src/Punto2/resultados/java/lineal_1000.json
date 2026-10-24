@@ -1,0 +1,10 @@
+{
+  "algoritmo": "lineal",
+  "lenguaje": "Java",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [513.5, 310.4, 234.0, 221.8, 286.2],
+  "promedio_ns": 313.18,
+  "desviacion_ns": 117.77470866022128
+}

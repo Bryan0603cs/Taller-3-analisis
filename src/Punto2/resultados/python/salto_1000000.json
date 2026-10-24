@@ -1,0 +1,16 @@
+{
+  "algoritmo": "salto",
+  "lenguaje": "Python",
+  "n": 1000000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    74272.2,
+    82392.8,
+    76068.4,
+    72712.5,
+    73764.7
+  ],
+  "promedio_ns": 75842.12,
+  "desviacion_ns": 3858.0258911780275
+}

@@ -1,0 +1,16 @@
+{
+  "algoritmo": "ternaria",
+  "lenguaje": "Python",
+  "n": 1000000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    2648.3,
+    2911.1,
+    2759.2,
+    2763.9,
+    3255.0
+  ],
+  "promedio_ns": 2867.5,
+  "desviacion_ns": 235.88540650069893
+}

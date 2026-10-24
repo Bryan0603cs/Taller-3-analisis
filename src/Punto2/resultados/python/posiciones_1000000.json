@@ -1,0 +1,248 @@
+{
+  "lineal": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 145.96,
+      "desviacion_ns": 26.90386589321319,
+      "repeticiones_ns": [
+        125.3,
+        148.3,
+        135.4,
+        191.5,
+        129.3
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 12819795.96,
+      "desviacion_ns": 647550.1172114197,
+      "repeticiones_ns": [
+        12622770.5,
+        13605634.8,
+        12450807.7,
+        13365859.4,
+        12053907.4
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 24900607.22,
+      "desviacion_ns": 1210914.5989415545,
+      "repeticiones_ns": [
+        23879695.9,
+        24340379.3,
+        26979495.4,
+        24829901.7,
+        24473563.8
+      ]
+    }
+  },
+  "binaria": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 1840.72,
+      "desviacion_ns": 284.2890113950941,
+      "repeticiones_ns": [
+        1936.3,
+        1660.0,
+        2282.7,
+        1768.3,
+        1556.3
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 1698.86,
+      "desviacion_ns": 261.2572544447332,
+      "repeticiones_ns": [
+        1723.6,
+        2127.8,
+        1613.1,
+        1596.7,
+        1433.1
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 1538.52,
+      "desviacion_ns": 257.2753524922277,
+      "repeticiones_ns": [
+        1387.7,
+        1419.7,
+        1593.8,
+        1328.0,
+        1963.4
+      ]
+    }
+  },
+  "ternaria": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 1463.4,
+      "desviacion_ns": 269.5197673641027,
+      "repeticiones_ns": [
+        1244.1,
+        1896.0,
+        1519.4,
+        1418.0,
+        1239.5
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 1619.0,
+      "desviacion_ns": 189.11513688755852,
+      "repeticiones_ns": [
+        1698.3,
+        1444.4,
+        1440.8,
+        1619.5,
+        1892.0
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 1665.76,
+      "desviacion_ns": 362.023276875949,
+      "repeticiones_ns": [
+        1508.5,
+        1537.8,
+        1263.6,
+        2215.8,
+        1803.1
+      ]
+    }
+  },
+  "salto": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 264.02,
+      "desviacion_ns": 65.78888203944494,
+      "repeticiones_ns": [
+        264.0,
+        375.3,
+        213.0,
+        217.9,
+        249.9
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 38852.84,
+      "desviacion_ns": 4483.60397649034,
+      "repeticiones_ns": [
+        34908.3,
+        38490.1,
+        34042.1,
+        43473.0,
+        43350.7
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 151927.2,
+      "desviacion_ns": 5586.952080965077,
+      "repeticiones_ns": [
+        152620.6,
+        146387.5,
+        160736.0,
+        151975.9,
+        147916.0
+      ]
+    }
+  },
+  "interpolacion": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 270.03999999999996,
+      "desviacion_ns": 32.27046637407027,
+      "repeticiones_ns": [
+        320.2,
+        243.3,
+        270.4,
+        240.1,
+        276.2
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 798.62,
+      "desviacion_ns": 190.77273652175776,
+      "repeticiones_ns": [
+        1128.7,
+        666.4,
+        778.5,
+        748.1,
+        671.4
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 337.64,
+      "desviacion_ns": 89.55737267249413,
+      "repeticiones_ns": [
+        260.0,
+        431.6,
+        293.1,
+        437.9,
+        265.6
+      ]
+    }
+  },
+  "exponencial": {
+    "inicio": {
+      "clave": 10000101,
+      "tipo": "medido",
+      "promedio_ns": 85.98,
+      "desviacion_ns": 13.354474905438998,
+      "repeticiones_ns": [
+        68.8,
+        105.6,
+        89.6,
+        83.9,
+        82.0
+      ]
+    },
+    "centro": {
+      "clave": 55017957,
+      "tipo": "medido",
+      "promedio_ns": 2073.62,
+      "desviacion_ns": 406.8093619866682,
+      "repeticiones_ns": [
+        2754.8,
+        1773.9,
+        2088.6,
+        1754.3,
+        1996.5
+      ]
+    },
+    "final": {
+      "clave": 99999962,
+      "tipo": "medido",
+      "promedio_ns": 2564.08,
+      "desviacion_ns": 539.2973688050037,
+      "repeticiones_ns": [
+        2198.7,
+        3430.9,
+        2637.8,
+        2044.5,
+        2508.5
+      ]
+    }
+  }
+}

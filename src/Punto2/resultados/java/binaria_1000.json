@@ -1,0 +1,10 @@
+{
+  "algoritmo": "binaria",
+  "lenguaje": "Java",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [152.6, 147.8, 153.0, 138.5, 138.7],
+  "promedio_ns": 146.11999999999998,
+  "desviacion_ns": 7.16358848622672
+}

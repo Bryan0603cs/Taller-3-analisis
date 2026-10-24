@@ -1,0 +1,10 @@
+{
+  "algoritmo": "salto",
+  "lenguaje": "Java",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [632.6, 694.0, 534.0, 750.7, 1168.8],
+  "promedio_ns": 756.0200000000001,
+  "desviacion_ns": 244.32943334768325
+}

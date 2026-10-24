@@ -1,0 +1,16 @@
+{
+  "algoritmo": "binaria",
+  "lenguaje": "Python",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [
+    747.2,
+    827.6,
+    1124.3,
+    816.5,
+    1080.3
+  ],
+  "promedio_ns": 919.18,
+  "desviacion_ns": 170.69055919997447
+}

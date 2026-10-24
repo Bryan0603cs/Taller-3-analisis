@@ -1,0 +1,10 @@
+{
+  "algoritmo": "exponencial",
+  "lenguaje": "Java",
+  "n": 1000,
+  "tipo": "medido",
+  "unidad": "ns_por_busqueda",
+  "repeticiones_ns": [363.1, 547.6, 287.0, 273.3, 217.5],
+  "promedio_ns": 337.7,
+  "desviacion_ns": 128.32484171040306
+}
