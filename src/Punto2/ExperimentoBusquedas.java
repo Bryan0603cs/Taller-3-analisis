@@ -93,7 +93,7 @@ public class ExperimentoBusquedas {
 
         Path datos = raiz
                 .resolve("src")
-                .resolve("Punto 3")
+                .resolve("Punto1")
                 .resolve("datos")
                 .resolve("datos");
 
